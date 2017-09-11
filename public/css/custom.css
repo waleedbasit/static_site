@@ -1,0 +1,20 @@
+
+
+/* Put your custom styles here */
+
+.footer-design
+{
+    background-color: #7f0020;
+}
+
+.trans-background{
+	background: rgba(255,255,255,0.85);
+}
+
+.beauty{
+	height: 30px;
+}
+
+.beauty-tilt{
+	transform:rotate(180deg);	
+}
